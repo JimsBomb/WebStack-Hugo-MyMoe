@@ -1,7 +1,7 @@
 baseURL               = "https://mymoe.cc/"
 languageCode          = "zh-CN"
 title                 = "MyMoe好站分享"
-theme                 = "WebStack-Hugo"
+theme                 = "WebStack-Hugo-Mymoe"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
